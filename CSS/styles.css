@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8d35a;
+}
+
+.block1{
+    padding: 5%;
+    margin: 10%;
+    align-items: center;
+    justify-content: center;
+}
+
+.block2{
+    padding: 5%;
+    margin: 10%;
+    align-items: center;
+    justify-content: center;
+}
+
+.block3{
+    padding: 5%;
+    margin: 10%;
+    align-items: center;
+    justify-content: center;
+}
